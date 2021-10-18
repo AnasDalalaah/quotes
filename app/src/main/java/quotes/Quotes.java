@@ -6,7 +6,7 @@ public class Quotes {
 
     private ArrayList<String> tags;
     private String author;
-//    private String likes;
+
     private String text;
 
     public ArrayList<String> getTags() {
